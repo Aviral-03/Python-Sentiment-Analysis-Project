@@ -58,5 +58,3 @@ Future exploration could involve:
 * Plotly Bubble Charts: [https://plotly.com/python/bubble-charts/](https://plotly.com/python/bubble-charts/)
 * Vader Sentiment Analysis: [https://github.com/cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment)
 * Coronavirus and How People Spent Their Time under Lockdown (ONS): [https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/bulletins/coronavirusandhowpeoplespenttheirtimeunderrestrictions/28marchto26april2020](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/bulletins/coronavirusandhowpeoplespenttheirtimeunderrestrictions/28marchto26april2020)
-
-This README provides a comprehensive overview of the project. Feel free to explore the code and data for further insights!
